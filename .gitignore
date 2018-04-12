@@ -8,6 +8,7 @@ DerivedData/
 
 ## Ignore when build
 .DS_Store
+.svn
 
 ## Various settings
 *.pbxuser
